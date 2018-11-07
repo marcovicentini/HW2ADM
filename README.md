@@ -18,4 +18,4 @@ __[RQ5]__: The correlation between the length of the distances of trips and dura
 __[CRQ1]__: The price per mile is computed in two ways for each trip, also the mean and the standart deviation is computed for that. The t-test is done for all the possible pairs of distribution of different boroughs. All the necessary plots is presented. 
 Division by Duration of the variable P=Fare amount/Distance has managed to mitigate the effect of traffic and we saw that there is not difference in costs of taxis through borough.
 
-__[CRQ2]__: The number of trips that starts in each zone is visualized on a chropleth map. Another map allows to count the races that end up in the single zone. All the discoveries are commented.
+__[CRQ2]__: The number of trips that starts in each zone is visualized on a chropleth map. Another map allows to count the races that end up in the single zone. All the discoveries are commented. All the necessary plots you can find in the folder 'plots' in this repository.
