@@ -14,3 +14,8 @@ borough is presented in dataframe and via bar plot. The chi^2 test is provided i
 out if there is any correlation between boroughs and payment ways.
 
 __[RQ5]__: The correlation between the length of the distances of trips and durations of the trips is reviewed. Provided a plot of their dependence. The Pearson Coefficient is computed and are made all the necessary comments. 
+
+__[CRQ1]__: The price per mile is computed in two ways for each trip, also the mean and the standart deviation is computed for that. The t-test is done for all the possible pairs of distribution of different boroughs. All the necessary plots is presented. 
+Division by Duration of the variable P=Fare amount/Distance has managed to mitigate the effect of traffic and we saw that there is not difference in costs of taxis through borough.
+
+__[CRQ2]__: The number of trips that starts in each zone is visualized on a chropleth map. Another map allows to count the races that end up in the single zone. All the discoveries are commented.
