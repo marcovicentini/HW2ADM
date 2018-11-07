@@ -24,3 +24,7 @@ For this purpose we use the open data of Taxi's trips in NYC. In order to answer
 
 2. __`PLOTS`__:
       > Consists of the plots for [CRQ2]
+3. __`.gitignore`__:
+      > The file was created by system and has no relation to the research
+4. __`LICENSE`__:
+      > The file was created by system and has no relation to the research
