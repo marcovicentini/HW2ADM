@@ -12,3 +12,5 @@ described correlation between duration and trip distance.
 __[RQ4]__: The most popular payment way is discovered. The number of payments for each type and for each 
 borough is presented in dataframe and via bar plot. The chi^2 test is provided in order to find 
 out if there is any correlation between boroughs and payment ways.
+
+__[RQ5]__: The correlation between the length of the distances of trips and durations of the trips is reviewed. Provided a plot of their dependence. The Pearson Coefficient is computed and are made all the necessary comments. 
